@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
-main hr {
+hr {
   border: 0;
   background-color: #9c97f1;
   height: 1.2px;
