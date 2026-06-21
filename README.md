@@ -1,13 +1,13 @@
 # apnaMart 🛒
 
-Welcome to **apnaMart**, a peer-to-peer marketplace where users can easily buy and sell used items ranging from electronics and clothing to books and home appliances. Give your pre-loved items a second home!
+Welcome to **apnaMart**, a peer-to-peer marketplace where users can easily buy and sell used items ranging from electronics and clothing to books and home appliances!
 
 ---
 
 ## 🚀 Features
 
 * **User Authentication:** Secure signup and login for buyers and sellers.
-* **Item Listing:** Sellers can upload images, set prices, write descriptions, and categorize their used items (e.g., Electronics, Clothing, Books).
+* **Item Listing:** Sellers can upload images, set prices, write descriptions, and categorize their items (e.g., Electronics, Clothing, Books).
 * **Advanced Search & Filters:** Easily find items by category, price range, condition, and location.
 * **In-App Chat:** Safe and direct communication channel between buyers and sellers.
 * **User Ratings & Reviews:** Build community trust with feedback profiles.
