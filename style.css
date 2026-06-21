@@ -1,1 +1,11 @@
-/*hi*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+main hr {
+  border: 0;
+  background-color: #9c97f1;
+  height: 1.2px;
+  margin: 40px 84px;
+}
